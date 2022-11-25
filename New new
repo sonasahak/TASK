@@ -1,0 +1,9 @@
+#def addition():
+#    print(12+15)
+#addition()
+
+def addition(x, y):
+    print(x +y)
+
+addition(45,60)
+addition(6, 10)
